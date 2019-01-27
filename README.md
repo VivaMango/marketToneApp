@@ -1,5 +1,7 @@
 # Market Tone App
 
+Deployed Link: https://vivamango.github.io/marketToneApp/
+
 This app determines the market tone of a company or stock ticker using the IBM Watson's Tone Analyzer.
 It will attempt to provide a solid indicator of whether to buy, sell, or hold a stock (displaying a picture)based on the tone returned by Watson's Tone Analyzer.
 
